@@ -1,5 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:sqlserver://localhost;databaseName=Audit
-    username: sa
-    password: Admin123admin
