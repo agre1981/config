@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:sqlserver://mssql:1433;databaseName=Audit
     username: sa
-    password: Admin123admin
+    password: AscendDB1!
     
 logging:
   level:
