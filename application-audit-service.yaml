@@ -3,3 +3,8 @@ spring:
     url: jdbc:sqlserver://localhost;databaseName=Audit
     username: sa
     password: Admin123admin
+    
+logging:
+  level:
+    ROOT: INFO
+    org.springframework.cloud.config: DEBUG    
