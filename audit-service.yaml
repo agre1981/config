@@ -6,7 +6,7 @@ spring:
     
 logging:
   level:
-    ROOT: DEBUG
+    ROOT: INFO
     org.springframework.cloud:
       config: DEBUG
       kubernetes: DEBUG
